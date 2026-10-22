@@ -1,0 +1,72 @@
+column,indicator_code,description,unit
+agricultural_land_pct,WB_ESG_AG_LND_AGRI_ZS,Agricultural land (% of land area),Percentage of land area
+tree_cover_loss_ha,WB_ESG_AG_LND_FRLS_HA,Tree Cover Loss (hectares),Hectares
+forest_area_pct,WB_ESG_AG_LND_FRST_ZS,Forest area (% of land area),Percentage of land area
+food_production_index,WB_ESG_AG_PRD_FOOD_XD,Food production index (2014-2016 = 100),Score 1-100
+control_of_corruption,WB_ESG_CC_EST,Control of Corruption: Estimate,Index
+clean_cooking_access_pct,WB_ESG_EG_CFT_ACCS_ZS,Access to clean fuels and technologies for cooking (% of population),Percentage of population
+energy_intensity,WB_ESG_EG_EGY_PRIM_PP_KD,Energy intensity level of primary energy (MJ/$2017 PPP GDP),"Megajoules per unit of GDP, 2017 constant PPP"
+electricity_access_pct,WB_ESG_EG_ELC_ACCS_ZS,Access to electricity (% of population),Percentage of population
+coal_electricity_pct,WB_ESG_EG_ELC_COAL_ZS,Electricity production from coal sources (% of total),Percentage of total
+renewable_electricity_pct,WB_ESG_EG_ELC_RNEW_ZS,Renewable electricity output (% of total electricity output),Percentage of electricity output
+renewable_energy_pct,WB_ESG_EG_FEC_RNEW_ZS,Renewable energy consumption (% of total final energy consumption),Percentage of total final energy consumption
+energy_imports_pct,WB_ESG_EG_IMP_CONS_ZS,"Energy imports, net (% of energy use)",Percentage of energy use
+fossil_fuel_energy_pct,WB_ESG_EG_USE_COMM_FO_ZS,Fossil fuel energy consumption (% of total),Percentage of total
+energy_use_per_capita,WB_ESG_EG_USE_PCAP_KG_OE,Energy use (kg of oil equivalent per capita),Kilograms per person
+co2_per_capita,WB_ESG_EN_ATM_CO2E_PC,CO2 emissions (metric tons per capita),Metric tons per capita
+methane_pc,WB_ESG_EN_ATM_METH_PC,Methane emissions (metric tons of CO2 equivalent per capita),Metric tons per capita
+nitrous_oxide_pc,WB_ESG_EN_ATM_NOXE_PC,Nitrous oxide emissions (metric tons of CO2 equivalent per capita),Metric tons per capita
+pm25_exposure,WB_ESG_EN_ATM_PM25_MC_M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",Micrograms per cubic meter
+cooling_degree_days,WB_ESG_EN_CLC_CDDY_XD,Cooling Degree Days,Number
+coastal_protection,WB_ESG_EN_CLC_CSTP_ZS,Coastal protection,Score (1 = Low to 4 = High)
+lucf_net_emissions,WB_ESG_EN_CLC_GHGR_MT_CE,GHG net emissions/removals by LUCF (Mt of CO2 equivalent),Metric tons per capita
+heating_degree_days,WB_ESG_EN_CLC_HDDY_XD,Heating Degree Days,Number
+heat_index_35_days,WB_ESG_EN_CLC_HEAT_XD,Heat Index 35,Count
+drought_index_spei,WB_ESG_EN_CLC_SPEI_XD,Standardised Precipitation-Evapotranspiration Index,Index
+good_water_quality_pct,WB_ESG_EN_H2O_BDYS_ZS,Proportion of bodies of water with good ambient water quality,Percentage
+land_surface_temp,WB_ESG_EN_LND_LTMP_DC,Land Surface Temperature,Degrees
+threatened_mammals,WB_ESG_EN_MAM_THRD_NO,"Mammal species, threatened",Number
+population_density,WB_ESG_EN_POP_DNST,Population density (people per sq. km of land area),Persons per square kilometer of land area
+water_stress_pct,WB_ESG_ER_H2O_FWST_ZS,Level of water stress: freshwater withdrawal as a proportion of available freshwater resources,Percentage
+freshwater_withdrawal_pct,WB_ESG_ER_H2O_FWTL_ZS,"Annual freshwater withdrawals, total (% of internal resources)",Percentage
+protected_areas_pct,WB_ESG_ER_PTD_TOTL_ZS,Terrestrial and marine protected areas (% of total territorial area),Percentage of total territorial area
+rnd_spend_gdp_pct,WB_ESG_GB_XPD_RSDV_GD_ZS,Research and development expenditure (% of GDP),Percentage of GDP
+government_effectiveness,WB_ESG_GE_EST,Government Effectiveness: Estimate,Index
+legal_rights_index,WB_ESG_IC_LGL_CRED_XQ,Strength of legal rights index (0=weak to 12=strong),Score 0-12
+journal_articles,WB_ESG_IP_JRN_ARTC_SC,Scientific and technical journal articles,Number
+patent_applications,WB_ESG_IP_PAT_RESD,"Patent applications, residents",Number
+internet_users_pct,WB_ESG_IT_NET_USER_ZS,Individuals using the Internet (% of population),Percentage of population
+agriculture_gdp_pct,WB_ESG_NV_AGR_TOTL_ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",Percentage of GDP
+forest_depletion_gni_pct,WB_ESG_NY_ADJ_DFOR_GN_ZS,Adjusted savings: net forest depletion (% of GNI),Percentage of GNI
+resource_depletion_gni_pct,WB_ESG_NY_ADJ_DRES_GN_ZS,Adjusted savings: natural resources depletion (% of GNI),Percentage of GNI
+gdp_growth,WB_ESG_NY_GDP_MKTP_KD_ZG,GDP growth (annual %),Annual percentage
+political_stability,WB_ESG_PV_EST,Political Stability and Absence of Violence/Terrorism: Estimate,Index
+rule_of_law,WB_ESG_RL_EST,Rule of Law: Estimate,Index
+regulatory_quality,WB_ESG_RQ_EST,Regulatory Quality: Estimate,Index
+econ_social_rights_score,WB_ESG_SD_ESR_PERF_XQ,Economic and Social Rights Performance Score,Score
+adult_literacy_pct,WB_ESG_SE_ADT_LITR_ZS,"Literacy rate, adult total (% of people ages 15 and above)",Percentage of population
+school_gender_parity,WB_ESG_SE_ENR_PRSC_FM_ZS,"School enrollment, primary and secondary (gross), gender parity index (GPI)","Gross, gender parity index (GPI)"
+primary_enrolment_pct,WB_ESG_SE_PRM_ENRR,"School enrollment, primary (% gross)",Percentage of gross
+education_spend_pct,WB_ESG_SE_XPD_TOTL_GB_ZS,"Government expenditure on education, total (% of government expenditure)",Percentage of government expenditure
+women_in_parliament_pct,WB_ESG_SG_GEN_PARL_ZS,Proportion of seats held by women in national parliaments (%),Percentage
+communicable_deaths_pct,WB_ESG_SH_DTH_COMM_ZS,"Cause of death, by communicable diseases and maternal, prenatal and nutrition conditions (% of total)",Percentage of total
+under5_mortality,WB_ESG_SH_DYN_MORT,"Mortality rate, under-5 (per 1,000 live births)","Per 1,000 live births"
+safe_drinking_water_pct,WB_ESG_SH_H2O_SMDW_ZS,People using safely managed drinking water services (% of population),Percentage of total
+hospital_beds_per_1000,WB_ESG_SH_MED_BEDS_ZS,"Hospital beds (per 1,000 people)",Per 1 000 persons
+overweight_pct,WB_ESG_SH_STA_OWAD_ZS,Prevalence of overweight (% of adults),Percentage of adults
+safe_sanitation_pct,WB_ESG_SH_STA_SMSS_ZS,People using safely managed sanitation services (% of population),Percentage of total
+income_share_lowest20,WB_ESG_SI_DST_FRST_20,Income share held by lowest 20%,Percentage
+gini_index,WB_ESG_SI_POV_GINI,Gini index,Index
+poverty_headcount_pct,WB_ESG_SI_POV_NAHC,Poverty headcount ratio at national poverty lines (% of population),Percentage of total
+consumption_growth_pct,WB_ESG_SI_SPR_PCAP_ZG,"Annualized average growth rate in per capita real survey mean consumption or income, total population (%)",Percentage
+child_employment_pct,WB_ESG_SL_TLF_0714_ZS,"Children in employment, total (% of children ages 7-14)",Percentage of children
+labour_force_participation,WB_ESG_SL_TLF_ACTI_ZS,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",Percentage of total
+female_male_labour_ratio,WB_ESG_SL_TLF_CACT_FM_ZS,Ratio of female to male labor force participation rate (%) (modeled ILO estimate),Percentage
+unemployment_pct,WB_ESG_SL_UEM_TOTL_ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",Percentage of labor force
+net_migration,WB_ESG_SM_POP_NETM,Net migration,Number
+undernourishment_pct,WB_ESG_SN_ITK_DEFC_ZS,Prevalence of undernourishment (% of population),Percentage of total
+life_expectancy,WB_ESG_SP_DYN_LE00_IN,"Life expectancy at birth, total (years)",Years
+fertility_rate,WB_ESG_SP_DYN_TFRT_IN,"Fertility rate, total (births per woman)",Births per woman
+pop_65plus_pct,WB_ESG_SP_POP_65UP_TO_ZS,Population ages 65 and above (% of total population),Percentage of total
+unmet_contraception_pct,WB_ESG_SP_UWT_TFRT,Unmet need for contraception (% of married women ages 15-49),Percentage of married women
+voice_accountability,WB_ESG_VA_EST,Voice and Accountability: Estimate,Index
